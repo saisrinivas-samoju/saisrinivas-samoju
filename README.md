@@ -59,6 +59,6 @@ class ProfileDetails:
 </a>
 <a href="https://sai-srinivas.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%91%BD-Website-red" alt="Personal Website"></a>
 <a href="https://www.linkedin.com/in/sai-srinivas-samoju/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="saisrinivas.samoju@gmail.com" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%93%A7-Gmail-orange" alt="Gmail"></a>
+<a href="mailto:saisrinivas.samoju@gmail.com" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%93%A7-Gmail-orange" alt="Gmail"></a>
 
 ---
