@@ -47,8 +47,8 @@ class ProfileDetails:
 
 <img src="https://github-readme-stats.vercel.app/api?username=saisrinivas-samoju&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="saisrinivas-samoju" width="500px" align="center">
 <p></p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saisrinivas-samoju&theme=dark&background=0d1117&date_format=M%20j[%2C%20Y]" width="500px" align="center">
-<p></p>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=saisrinivas-samoju&theme=dark&background=0d1117&date_format=M%20j[%2C%20Y]" width="500px" align="center">
+<p></p> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saisrinivas-samoju&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" width="500px" align="center">
 <p></p>
 <img src="https://activity-graph.herokuapp.com/graph?username=saisrinivas-samoju&theme=xcode" width="500px" align="center">
