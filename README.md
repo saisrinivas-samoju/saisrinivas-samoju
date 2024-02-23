@@ -24,10 +24,10 @@ class ProfileDetails:
 <br>
 <img width="20%" align="right" alt="GitHub" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-* <img src="https://upload.wikimedia.org/wikipedia/en/e/e2/NIT_Rourkela_Colour_Logo.svg" height = "20px"> I am a B.Arch. graduate from NIT Rourkela
-* 💼 I worked as an Architect for some time and now in the process of making a transition towards Artificial Intelligence Domain.
+<!-- * <img src="https://upload.wikimedia.org/wikipedia/en/e/e2/NIT_Rourkela_Colour_Logo.svg" height = "20px"> I am a B.Arch. graduate from NIT Rourkela -->
+<!-- * 💼 I worked as an Architect for some time and now in the process of making a transition towards Artificial Intelligence Domain. -->
 * 🌱 I am currently working on some machine learning and deep learning projects.
-* 🔍 I am actively looking for career opportunities
+<!-- * 🔍 I am actively looking for career opportunities -->
 * 💬 Ask me about anything, I am happy to help
 * 👀 Check out my [Personal Website](https://sai-srinivas.herokuapp.com/) for more information.
 
